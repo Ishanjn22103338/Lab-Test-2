@@ -1,0 +1,11 @@
+Odd Numbered Systems
+Load California housing dataset from sklearn
+sklearn.datasets.fetch_california_housing
+a. Display the features and show the count of categorical and numerical features.
+b. Plot line plot graph between price of house and No of bedrooms
+c. Figure out the number of missing values in each field. If there is any missing value, try
+substituting it using appropriate way.
+d. Using Linear regression model and SVM model to predict the house price using 60% training
+and 40% test data.
+e. For both above models, show the comparison in performance matrices of Accuracy, precision,
+recall and F1 score.
